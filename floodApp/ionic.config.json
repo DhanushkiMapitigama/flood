@@ -1,0 +1,8 @@
+{
+  "name": "floodApp",
+  "app_id": "9f695c61",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
